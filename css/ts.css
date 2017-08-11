@@ -1,0 +1,4 @@
+/* Slideshow settings */
+#tweets-slider-sec{width: 100%;}
+#tweets-slider {box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);border-radius: 15px;margin: 10px auto;position: relative;width: 600px;height: 100px;padding:5px; background: url("../images/twitter.png") no-repeat scroll 0 15px;}#tweets-slider > div {position: absolute;top: 10px;left: 10px;right: 10px;bottom: 10px;}#tweets-slider .ts-slide-item h3,h2 {margin:2px 0px !important; padding: 0 !important;}#tweets-slider .ts-slide-item h2 a {text-decoration:none; cursor: pointer; color: #0098da !important; line-height:20px;font-size: 18px;padding-left:15px;}.ts-slide-item h3 {cursor: pointer; color: #666666 !important; line-height:10px;font-size:12px!important;font-weight: normal;padding-left:15px;}.ts-slide-item p {margin:0px !important;line-height: 20px;padding: 10px 0;}#tweets-slider .ts-slide-item a{color: #0098da !important;}
+
